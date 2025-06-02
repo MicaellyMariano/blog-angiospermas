@@ -22,9 +22,9 @@ O jogo está integrado ao projeto como uma forma interativa de fixar os conteúd
 
 O projeto **Vida Verde** foi desenvolvido por:
 
-- **Micaelly Vitória Ferreira Mariano** – programação e desenvolvimento do projeto e do jogo de forca  
+- **Micaelly Vitória Ferreira Mariano** – programação e desenvolvimento do site   
 - **Echiley** – pesquisa e conteúdo científico  
-- **Lucy** e **Erika** – contribuições com ideias para o jogo  
+- **Lucy** e **Erika** – contribuições com o jogo  
 
 ## 🔍 Fontes e Referências
 
