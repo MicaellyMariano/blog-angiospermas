@@ -96,7 +96,7 @@
       color: var(--white);
     }
 
-    /* Main Game Container */
+    /* container menu principal do jogo*/
     .game-container {
       flex: 1;
       display: flex;
@@ -128,7 +128,7 @@
       opacity: 0.8;
     }
 
-    /* Word Display */
+   
     .word-display {
       font-size: 2rem;
       font-weight: 600;
@@ -144,7 +144,7 @@
       padding: 20px;
     }
 
-    /* Input Section */
+    /* Seção de entrada*/
     .input-section {
       margin: 30px 0;
     }
@@ -262,7 +262,7 @@
       color: var(--white);
     }
 
-    /* Messages */
+    /* Mensagens  */
     .message {
       margin: 20px 0;
       padding: 15px;
@@ -292,7 +292,7 @@
       border: 2px solid rgba(127, 176, 105, 0.3);
     }
 
-    /* Restart Button */
+    /* Botao de Restart */
     .restart-btn {
       padding: 15px 30px;
       background: var(--primary-color);
@@ -311,7 +311,7 @@
       transform: translateY(-2px);
     }
 
-    /* Responsive */
+    /* Responsividade */
     @media (max-width: 768px) {
       .header-content {
         padding: 0 15px;
@@ -364,6 +364,7 @@
   </style>
 </head>
 <body>
+
   <!-- Cabeçalho -->
   <header class="header">
     <div class="header-content">
@@ -585,7 +586,7 @@
         this.message.className = `message ${type}`;
         this.message.style.display = 'flex';
         
-        // Auto-oculta mensagens informativas
+        // Oculta mensagens informativas
         if (type === 'info') {
           setTimeout(() => this.hideMessage(), 3000);
         }
@@ -596,7 +597,7 @@
       }
     }
     
-    // Inicializa o jogo quando a página carrega
+    // Aqui inicializa o jogo quando a página carrega
     document.addEventListener('DOMContentLoaded', () => {
       new HangmanGame();
     });
