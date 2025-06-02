@@ -23,7 +23,7 @@ O jogo está integrado ao projeto como uma forma interativa de fixar os conteúd
 O projeto **Vida Verde** foi desenvolvido por:
 
 - **Micaelly Mariano** – programação e desenvolvimento do site   
-- **Echiley** – pesquisa e conteúdo científico  
+- **Echiley** – contribuições com pesquisas e conteúdos científicos  
 - **Lucy** e **Erika** – contribuições com o jogo  
 
 ## 🔍 Fontes e Referências
