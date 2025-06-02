@@ -12,7 +12,7 @@ Este projeto aborda:
 - A importância ecológica e econômica dessas plantas  
 - Curiosidades e exemplos de espécies  
 
-💡 E ainda: um **jogo de forca** onde você precisa adivinhar o nome de angiospermas com base em dicas!
+💡 E ainda: um **jogo de forca** onde você precisa adivinhar o nome de angiospermas!
 
 ## 🎮 Jogo de Forca
 
